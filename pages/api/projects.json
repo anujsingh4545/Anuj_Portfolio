@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Face Recognition Attendance System",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Develop a real-time face recognition attendance system using Python, MySQL, Tkinter, and Deep Learning. The system marks student presence, integrates with MySQL for attendance records, and utilizes Tkinter for a user-friendly interface.",
+    "tags": ["Python", "MySQL", "Tkinter", "Deep-Learning"],
+    "source_code": "https://github.com/Mudit-Sharma-30/Face-recognition-Software"
+  },
+  {
+    "id": 2,
+    "name": "Tableau Dashboard for Entertainment Dataset Analysis",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Create a Tableau dashboard analyzing datasets from Spotify, Prime Video, Hotstar, and FIFA. Extract insights on user behavior and content consumption trends.",
+    "tags": ["Tableau", "Data-Analysis"],
+    "source_code": "https://public.tableau.com/app/profile/komu2830/vizzes"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Disease Classification Pipeline",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Implement a pipeline for chicken disease classification using Git, Python, CNN, and VGG16. Leverage deep learning for accurate identification of Coccidiosis.",
+    "tags": ["Git", "Python", "CNN", "VGG16"],
+    "source_code": "https://github.com/Mudit-Sharma-30/Chicken-disease-classification"
+  },
+  {
+    "id": 4,
+    "name": "Automatic Number Plate Recognition (ANPR)",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Develop an ANPR system using Python, Deep Learning, CNN, and LabelImg. The system automatically tracks and captures vehicle number plates for security and traffic management.",
+    "tags": ["Python", "Deep-Learning", "CNN", "LabelImg"],
+    "source_code": "https://github.com/Mudit-Sharma-30/ANPR-Automatic-Number-Plate-Recognition"
+  },
+  {
+    "id": 5,
+    "name": "Movie Recommender System",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Build a movie recommendation model using Python, Machine Learning, and cosine similarity. The system suggests movies based on a user's watched history for a personalized experience.",
+    "tags": ["Python", "Machine-Learning", "cosine_similarity"],
+    "source_code": "https://github.com/Mudit-Sharma-30/Movie-Recommender"
+  }
+]
