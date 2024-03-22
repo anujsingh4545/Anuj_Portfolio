@@ -12,6 +12,15 @@ const RepoCard = ({repo}) => {
         <h3 className={styles.title}>{repo.name}</h3>
         <p>{repo.description}</p>
       </div>
+
+      <div className=" flex flex-wrap  gap-2  mb-2  ">
+        {repo.topics.map((tag) => (
+          <span key={tag} className=" text-[0.6rem] px-2 py-1 rounded-full bg-white/30 shadow-md ">
+            {tag}
+          </span>
+        ))}
+      </div>
+
       <div className={styles.stats}>
         <div>
           <div>

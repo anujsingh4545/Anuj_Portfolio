@@ -53,6 +53,7 @@ export async function getStaticProps() {
   });
 
   let repos = await repoRes.json();
+
   repos.forEach((repo) => {
     repo.updated_at = new Date(repo.updated_at).toISOString(); // Convert Date object to string
   });
